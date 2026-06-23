@@ -13,3 +13,13 @@
   b - ALIAS - is used as a temporary name assigned to a table or a column within a query to make the code cleaner, shorter, and easier to read
 
 ## Intermediate
+1. JOINS - is a command clause used to combine rows from two or more database tables based on a related column between them
+2. UNION - is an operator used to combine the result sets of two or more SELECT queries into a single, unified result set
+3. STRING functions - built-in scalar tools used to manipulate, format, and transform text data within database management systems
+4. CASE statnebts - statements evaluates conditional logic within a query and returns a specific value as soon as a condition is met
+5. WINDOW functions -  performs a calculation across a set of table rows that are related to the current row
+
+## Data Sets
+A. employee_demographics
+B. employee_salary
+C. parks_departments
